@@ -1,0 +1,1 @@
+console.log('Keep your console always open, lol!');
